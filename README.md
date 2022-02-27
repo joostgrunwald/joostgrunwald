@@ -1,3 +1,5 @@
+Hi there, thank you for taking a look at my github profile.
+I'm currently working on a lot of stuff, feel free to check it out.
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joostgrunwald&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joostgrunwald&langs_count=5&theme=tokyonight&hide=jupyternotebook)]()
 <!--
